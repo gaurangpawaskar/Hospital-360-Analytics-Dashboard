@@ -104,4 +104,4 @@ Billing and revenue analysis across departments and treatments.
 
 ## Dashboard Preview
 
-((https://github.com/gaurangpawaskar/Hospital-360-Analytics-Dashboard/blob/main/Dashboard%20Page%201_Snapshot%20(1).jpg))
+(https://github.com/gaurangpawaskar/Hospital-360-Analytics-Dashboard/blob/main/Dashboard%20Page%201_Snapshot%20(1).jpg)
